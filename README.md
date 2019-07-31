@@ -20,3 +20,11 @@ Starting a new JavaScript project from scratch is overwhelming. This course prov
 <https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig>
 
 VSCode extension: EditorConfig for VS Code
+
+## 2. Package Management
+
+1. Bower
+2. **npm**
+3. JSPM
+4. Jam
+5. volo
