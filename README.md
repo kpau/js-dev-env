@@ -46,3 +46,9 @@ VSCode extension: EditorConfig for VS Code
 2. ngrok
 3. Surge
 4. now
+
+## 4. Automation
+
+1. Grunt
+2. Gulp
+3. **npm Scripts**
