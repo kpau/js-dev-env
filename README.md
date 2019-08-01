@@ -52,3 +52,9 @@ VSCode extension: EditorConfig for VS Code
 1. Grunt
 2. Gulp
 3. **npm Scripts**
+
+## 5. Transpiling
+
+1. **Babel**
+2. Typescript
+3. Elm
