@@ -58,3 +58,21 @@ VSCode extension: EditorConfig for VS Code
 1. **Babel**
 2. Typescript
 3. Elm
+
+## 6. Bundling
+
+### Modules
+
+1. IIFE
+2. Asynchronous Module Definition (AMD)
+3. CommonJS (CJS)
+4. Universal Module Definition (UMD)
+5. **ES6 Modules**
+
+### Bundler
+
+1. require.js - AMD
+2. Browserify
+3. **Webpack**
+4. Rollup
+5. JSPM
