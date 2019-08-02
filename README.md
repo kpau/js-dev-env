@@ -76,3 +76,24 @@ VSCode extension: EditorConfig for VS Code
 3. **Webpack**
 4. Rollup
 5. JSPM
+
+## 7. Linting
+
+1. JSLint
+2. JSHint
+3. **ESLint**
+4. TSLint
+
+### Descisions (eslint)
+
+1. Configuration file
+2. Rules
+3. Warnings or errors
+4. Plugins
+5. Preset
+
+### Watchers and other
+
+1. eslint-loader (webpack)
+2. **eslint-watch**
+3. babel-eslint
