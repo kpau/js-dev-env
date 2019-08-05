@@ -8,14 +8,14 @@ Starting a new JavaScript project from scratch is overwhelming. This course prov
 
 ## 1. Editors and Configurations
 
-### 1.a. Editor
+### Editor
 
 1. Atom
 2. WebStorm
 3. Brackets
 4. **VSCode**
 
-### 1.b. Editorconfig
+### Editorconfig
 
 <https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig>
 
