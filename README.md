@@ -97,3 +97,41 @@ VSCode extension: EditorConfig for VS Code
 1. eslint-loader (webpack)
 2. **eslint-watch**
 3. babel-eslint
+
+## 8. Testing and Continuous Integration (CI)
+
+### Testing Descisions
+
+1. Testing Framework
+    * **Mocha**
+    * Jasmine
+    * Tape
+    * QUnit
+    * AVA
+    * Jest
+2. Assertion Library
+    * **Chai**
+    * Should.js
+    * expect
+3. Helper Library
+    * **JSDOM**
+    * Cheerio
+4. Where to run tests?
+    * Browser - Karma, Testem
+    * Headless browser - PhantomJS
+    * **In-memory DOM - node, JSDOM**
+5. Where do test files belong?
+    * Centralized
+    * **Alongside**
+6. When should thest run?
+    * **Unit tests - immediately on Save**
+    * Integration tests - on demand, or QA
+
+### Continuous Integration
+
+1. **Travis (Linux)**
+2. **Appveyor (Windows)**
+3. Jenkins
+4. CircleCI
+5. Semaphore
+6. SnapCI
