@@ -135,3 +135,32 @@ VSCode extension: EditorConfig for VS Code
 4. CircleCI
 5. Semaphore
 6. SnapCI
+
+## 9. HTTP Calls
+
+### Approaches
+
+1. Node
+    * http
+    * **request**
+2. Browser
+    * XMLHttpRequest
+    * jQuery
+    * Framework-based
+    * **Fetch**
+3. Node & Browser
+    * isomorphic-fetch
+    * xhr
+    * SuperAgent
+    * Axios
+
+### Mock HTTP
+
+1. Nock
+2. Static JSON
+3. Dev webserver
+    * api-mock
+    * **JSON server**
+    * **JSON Schema faker**
+    * Express.js, Browsersync, etc.
+    * **Fake data - faker.js, change.js, randexp.js**
