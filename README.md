@@ -164,3 +164,18 @@ VSCode extension: EditorConfig for VS Code
     * **JSON Schema faker**
     * Express.js, Browsersync, etc.
     * **Fake data - faker.js, change.js, randexp.js**
+
+## 10. Production build
+
+1. Minification
+2. Bundling
+3. HTML Generation
+4. Bundle splitting (TODO)
+5. Cash busting
+6. Error logging
+    * **TrackJS**
+    * Sentry
+    * New Relic
+    * Raygun
+7. HTML Templates
+    * Embedded JS
